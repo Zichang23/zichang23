@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am a fourth-year PhD candidate in the Statistical Science program at Southern Methodist University.
+
+#### Current Research
+
+I specialize in high-dimensional time series analysis focusing on developmental disorders (ASD and ADHD). My research employs advanced spectral analysis techniques and custom visualization tools to extract meaningful patterns from complex datasets.
+
+#### Technical Contributions
+
+I have developed and maintain several R functions that implement novel analytical methods for neurological time series data. These tools facilitate robust statistical inference in high-dimensional spaces while ensuring computational efficiency.
+
 <!--
 **Zichang23/zichang23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
