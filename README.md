@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Zichang, and I am a fourth-year PhD candidate in the Statistical Science program at Southern Methodist University.
+My name is Zichang, and I am a PhD candidate in the Statistical Science program at Southern Methodist University.
 
 - 🔭 I’m currently working on high-dimensional time series analysis focusing on developmental disorders.
 - 🌱 I recently developed several R functions that implement novel analytical methods for neurological time series data. Check them out [ADHD]https://github.com/Zichang23/adhd, [ASD]https://github.com/Zichang23/fmri 
