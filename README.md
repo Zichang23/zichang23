@@ -2,7 +2,7 @@
 
 My name is Zichang, and I'm a PhD candidate in the Statistical Science program at Southern Methodist University.
 
-- I’m currently working on high-dimensional time series analysis focusing on developmental disorders.
+<!--  Research: high-dimensional time series analysis focusing on developmental disorders. -->
 - Take a look at some of the projects I've completed: 
     * Time series analysis:
       
