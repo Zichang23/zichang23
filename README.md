@@ -3,9 +3,13 @@
 My name is Zichang, and I'm a PhD candidate in the Statistical Science program at Southern Methodist University.
 
 - I’m currently working on high-dimensional time series analysis focusing on developmental disorders.
-- I recently developed several R functions that implement novel analytical methods for neurological time series data. Check them out: [ADHD](https://github.com/Zichang23/adhd), [ASD](https://github.com/Zichang23/fmri) 
+- Take a look at some of the projects I've completed: 
+    * Time series analysis of neuroimaging data: [ADHD](https://github.com/Zichang23/adhd), [ASD](https://github.com/Zichang23/fmri) 
+    * Time series prediction: [House price prediction](https://github.com/Zichang23/PredictHousePrice)
+<!--    * Bayesian hierarchical modelling:
 
-<!--
+      
+
 #### Current Research
 
 I specialize in high-dimensional time series analysis focusing on developmental disorders (ASD and ADHD). My research employs advanced spectral analysis techniques and custom visualization tools to extract meaningful patterns from complex datasets.
