@@ -19,6 +19,7 @@ My name is Zichang, and I'm a PhD candidate in the Statistical Science program a
          b. [Bike Sharing Predictive Modeling](https://github.com/AlexSelwaeh/ST558Project2)
 
          c. [House Price Predictive Modeling and Visualization](https://github.com/Zichang23/Project-3)
+
 <!--    * Bayesian hierarchical modelling:
 
       
