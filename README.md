@@ -4,8 +4,14 @@ My name is Zichang, and I'm a PhD candidate in the Statistical Science program a
 
 - I’m currently working on high-dimensional time series analysis focusing on developmental disorders.
 - Take a look at some of the projects I've completed: 
-    * Time series analysis of neuroimaging data: [ADHD](https://github.com/Zichang23/adhd), [ASD](https://github.com/Zichang23/fmri) 
-    * Time series prediction: [House Price Prediction](https://github.com/Zichang23/PredictHousePrice)
+    * Time series analysis:
+      
+      a. [ADHD](https://github.com/Zichang23/adhd)
+
+      b. [ASD](https://github.com/Zichang23/fmri)
+      
+      c. [House Price Prediction](https://github.com/Zichang23/PredictHousePrice)
+      
     * Data science projects:
       
          a. [National Hockey League’s(NHL) API](https://github.com/Zichang23/Project-1)
