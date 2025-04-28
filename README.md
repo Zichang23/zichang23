@@ -10,10 +10,10 @@ My name is Zichang. I'm a Statistics PhD candidate at Southern Methodist Univers
       
 - Data Science Projects:
 
-  * [Optimizing Crop Selection with Predictive Modeling](https://github.com/Zichang23/sklearn_predict)
-  * [National Hockey League’s(NHL) API](https://github.com/Zichang23/Project-1)
-  * [Bike Sharing Predictive Modeling](https://github.com/AlexSelwaeh/ST558Project2)
-  * [House Price Predictive Modeling and Visualization](https://github.com/Zichang23/Project-3)
+  * [Crop Selection Optimization](https://github.com/Zichang23/sklearn_predict)
+  * [NHL API](https://github.com/Zichang23/Project-1)
+  * [Bike Sharing Prediction](https://github.com/AlexSelwaeh/ST558Project2)
+  * [House Price Prediction and Visualization](https://github.com/Zichang23/Project-3)
 
 <!--    * Bayesian hierarchical modelling:
 
