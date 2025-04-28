@@ -6,11 +6,9 @@ My name is Zichang, and I'm a PhD candidate in the Statistical Science program a
 - Take a look at some of the projects I've completed: 
     * Time series analysis:
       
-      a. Time series analysis of neuroimaging data: [ADHD](https://github.com/Zichang23/adhd)
-
-      b. Time series analysis of neuroimaging data: [ASD](https://github.com/Zichang23/fmri)
+      a. Time series analysis of neuroimaging data: [ADHD](https://github.com/Zichang23/adhd), [ASD](https://github.com/Zichang23/fmri)
       
-      c. [House Price Prediction](https://github.com/Zichang23/PredictHousePrice)
+      b. [House Price Prediction](https://github.com/Zichang23/PredictHousePrice)
       
     * Data science projects:
       
