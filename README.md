@@ -7,6 +7,9 @@ My name is Zichang. I'm a Statistics PhD candidate at Southern Methodist Univers
 
   * Neuroimaging data: [ADHD](https://github.com/Zichang23/adhd), [ASD](https://github.com/Zichang23/fmri)
   * [House Price Prediction](https://github.com/Zichang23/PredictHousePrice)
+
+- Bayesian Modeling:
+  * [Heart Disease Mortality Rate](https://github.com/Zichang23/BayesianCardiology)
       
 - Data Science Projects:
 
