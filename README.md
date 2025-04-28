@@ -9,6 +9,8 @@ My name is Zichang. I'm a Statistics PhD candidate at Southern Methodist Univers
   * [House Price Prediction](https://github.com/Zichang23/PredictHousePrice)
 
 - Bayesian Modeling:
+
+  * [Unemployment Rate Overtime in US](https://github.com/Zichang23/BayesModel)
   * [Heart Disease Mortality Rate](https://github.com/Zichang23/BayesianCardiology)
       
 - Data Science Projects:
