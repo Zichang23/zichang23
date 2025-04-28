@@ -3,12 +3,12 @@
 My name is Zichang, and I'm a PhD candidate in the Statistical Science program at Southern Methodist University. Take a look at some of the projects I've completed:
 
 <!--  Research: high-dimensional time series analysis focusing on developmental disorders. --> 
-- Time series analysis:
+- Time Series Analysis:
 
   * Neuroimaging data: [ADHD](https://github.com/Zichang23/adhd), [ASD](https://github.com/Zichang23/fmri)
   * [House Price Prediction](https://github.com/Zichang23/PredictHousePrice)
       
-- Data science projects:
+- Data Science Projects:
 
   * [Optimizing Crop Selection with Predictive Modeling](https://github.com/Zichang23/sklearn_predict)
 
