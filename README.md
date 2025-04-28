@@ -13,7 +13,7 @@ My name is Zichang. I'm a Statistics PhD candidate at Southern Methodist Univers
   * [Crop Selection Optimization](https://github.com/Zichang23/sklearn_predict)
   * [NHL API](https://github.com/Zichang23/Project-1)
   * [Bike Sharing Prediction](https://github.com/AlexSelwaeh/ST558Project2)
-  * [House Price Prediction and Visualization](https://github.com/Zichang23/Project-3)
+  * [House Price Prediction Dashboard](https://github.com/Zichang23/Project-3)
 
 <!--    * Bayesian hierarchical modelling:
 
