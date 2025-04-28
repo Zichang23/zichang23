@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Zichang, and I'm a PhD candidate in the Statistical Science program at Southern Methodist University. Take a look at some of the projects I've completed:
+My name is Zichang, and I'm a Statistics PhD candidate at Southern Methodist University. Here are some projects I've completed:
 
 <!--  Research: high-dimensional time series analysis focusing on developmental disorders. --> 
 - Time Series Analysis:
