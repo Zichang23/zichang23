@@ -1,24 +1,22 @@
 ## Hi there 👋
 
-My name is Zichang, and I'm a PhD candidate in the Statistical Science program at Southern Methodist University.
+My name is Zichang, and I'm a PhD candidate in the Statistical Science program at Southern Methodist University. Take a look at some of the projects I've completed:
 
-<!--  Research: high-dimensional time series analysis focusing on developmental disorders. -->
-- Take a look at some of the projects I've completed: 
-    * Time series analysis:
-      
-      a. Neuroimaging data: [ADHD](https://github.com/Zichang23/adhd), [ASD](https://github.com/Zichang23/fmri)
-      
-      b. [House Price Prediction](https://github.com/Zichang23/PredictHousePrice)
-      
-    * Data science projects:
-      
-         a. [Optimizing Crop Selection with Predictive Modeling](https://github.com/Zichang23/sklearn_predict)
+<!--  Research: high-dimensional time series analysis focusing on developmental disorders. --> 
+- Time series analysis:
 
-         b. [National Hockey League’s(NHL) API](https://github.com/Zichang23/Project-1)
+  * Neuroimaging data: [ADHD](https://github.com/Zichang23/adhd), [ASD](https://github.com/Zichang23/fmri)
+  * [House Price Prediction](https://github.com/Zichang23/PredictHousePrice)
+      
+- Data science projects:
 
-         c. [Bike Sharing Predictive Modeling](https://github.com/AlexSelwaeh/ST558Project2)
+  * [Optimizing Crop Selection with Predictive Modeling](https://github.com/Zichang23/sklearn_predict)
 
-         d. [House Price Predictive Modeling and Visualization](https://github.com/Zichang23/Project-3)
+  * [National Hockey League’s(NHL) API](https://github.com/Zichang23/Project-1)
+
+  * [Bike Sharing Predictive Modeling](https://github.com/AlexSelwaeh/ST558Project2)
+
+  * [House Price Predictive Modeling and Visualization](https://github.com/Zichang23/Project-3)
 
 <!--    * Bayesian hierarchical modelling:
 
