@@ -16,6 +16,7 @@ My name is Zichang. I'm a Statistics PhD candidate at Southern Methodist Univers
 - Data Science Projects:
 
   * [Credit Card Fraud Prediction](https://github.com/Zichang23/credit_fraud)
+  * [Sentiment Analysis](https://github.com/Zichang23/sentiment_nlp)
   * [Crop Selection Optimization](https://github.com/Zichang23/sklearn_predict)
   * [NHL API](https://github.com/Zichang23/Project-1)
   * [House Price Prediction Dashboard](https://github.com/Zichang23/Project-3)
